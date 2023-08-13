@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Maps/MP_Overview2.umap",
+				"F:/Lesson4/TPSMultiplayerPack/Content/test.umap",
+				"F:/Lesson4/TPSMultiplayerPack/Content/NewLevelSequence.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/LevelSequence/SequenceShowcase.umap",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/LevelSequence/TriggerBox_Blueprint.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/LevelSequence_OpenDoor.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/LevelSequence/LevelSequence_OpenDoor.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Characters/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Blueprints/PlayersCharacter/PB_AnimationBP.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Characters/Animations/BlendSpaces/TP_1D_Blendspace.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Blueprints/PlayersCharacter/PB_PlayerCharacter.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/LevelSequence_OpenWall.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/LevelSequence/TriggerBox_Blueprint2.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/TPS_Multiplayer_Pack/Characters/UE4_Mannequin/Mesh/SK_Mannequin_CtrlRig.uasset",
+				"F:/Lesson4/TPSMultiplayerPack/Content/Sequene.uasset"
+			]
+		}
+	]
+}

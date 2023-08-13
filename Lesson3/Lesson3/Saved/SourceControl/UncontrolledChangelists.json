@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Lesson3/Lesson3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Lesson3/Lesson3/Content/NewWidgetBlueprint.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/UI/CrossHair.uasset",
+				"F:/Lesson3/Lesson3/Content/UI/R-C.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Blueprints/AI/AIController.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/Blueprints/AI/Enemy.uasset",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/D3/XDA1Q70JOQUC5KUDBLCGIS.uasset",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/EJ/BBJLWP1KXXT9NIPSDJDFH1.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/UI/TestUI.uasset",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/D9/ICVKAIIID66518IVS9ADN8.uasset",
+				"F:/Lesson3/Lesson3/Content/BossyEnemy/Maps/BossyEnemyPreviewMap.umap",
+				"F:/Lesson3/Lesson3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/18/Q9VQKJIKBEIPDA4KR8DXUP.uasset",
+				"F:/Lesson3/Lesson3/Content/FirstPerson/UI/TeseUI.uasset",
+				"F:/Lesson3/Lesson3/Content/CrossHair.uasset"
+			]
+		}
+	]
+}
